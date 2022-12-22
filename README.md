@@ -1,4 +1,5 @@
 # CredictCardFraudDetectionModel
-A model that predicts credict transaction fraud
+A machine leaning model that detects fraudulent transaction
 ### Requirements
-CreditCard.csv data you can find from kaggle 
+- CreditCard.csv data you can find from kaggle
+- Jupyter notebook
