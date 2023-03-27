@@ -1,5 +1,2 @@
 # CredictCardFraudDetectionModel
-A machine leaning model that detects fraudulent transaction
-### Requirements
-- CreditCard.csv data you can find from kaggle
-- Jupyter notebook
+An end-to-end fraudulent detection model based on credit card transaction, check my article https://medium.com/@muokapwambua/a-beginners-guide-to-an-end-to-end-machine-learning-project-b0a42a2546
